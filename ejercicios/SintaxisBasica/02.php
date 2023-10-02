@@ -2,7 +2,7 @@
     $nombre = "Jorge";
     $direccion = "Casa";
     $mail = "mail@gmail.com";
-    echo "<table>
+    echo "<table border = 1>
             <tr>
                 <th>Nombre</th>
                 <th>Dirección</th>
